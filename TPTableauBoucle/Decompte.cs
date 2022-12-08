@@ -24,7 +24,6 @@ namespace TPTableauBoucle
                 decompte.Text = Convert.ToString(i);
                 Task.Delay(1000).Wait();
             }
-            decompte.ForeColor = System.Drawing.Color.Red; 
            
         }
 
